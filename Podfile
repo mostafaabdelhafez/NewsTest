@@ -20,6 +20,7 @@ target 'NewsDemo' do
   pod 'Alamofire','~> 5.0'
   pod 'Kingfisher'
   pod 'IQKeyboardManagerSwift'
+  pod 'RealmSwift'
 
 
 end
